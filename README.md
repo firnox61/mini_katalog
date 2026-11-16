@@ -22,3 +22,14 @@ Flutter ile geliştirilmiş, ürünleri listeleyen ve ürün detaylarını göst
 ```bash
 flutter pub get
 flutter run
+
+## Ekran görüntüleri
+
+### Ana ekran
+![Mini Katalog ana ekranı](screenshots/home.png)
+
+### Ürün detayı
+![Ürün detay sayfası](screenshots/detail.png)
+
+### Sepet
+![Sepet ekranı](screenshots/cart.png)
