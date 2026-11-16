@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Kablosuz Kulaklık",
+    "category": "Elektronik",
+    "price": 1299.9,
+    "icon": "🎧",
+    "description": "Günlük kullanım için kablosuz kulaklık.",
+     "imageAsset": "assets/images/kulaklik.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Akıllı Saat",
+    "category": "Elektronik",
+    "price": 2499.9,
+    "icon": "⌚",
+    "description": "Aktivite takibi yapabilen akıllı saat.",
+     "imageAsset": "assets/images/akilli_saat.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sırt Çantası",
+    "category": "Aksesuar",
+    "price": 899.9,
+    "icon": "🎒",
+    "description": "Okul ve günlük kullanım için geniş çanta.",
+    "imageAsset": "assets/images/sirt_cantasi.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Kahve Makinesi",
+    "category": "Ev",
+    "price": 3199.9,
+    "icon": "☕",
+    "description": "Evde kahve hazırlamak için pratik makine.",
+    "imageAsset": "assets/images/kahve_makinesi.jpg"
+  }
+]
